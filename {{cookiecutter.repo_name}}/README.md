@@ -26,7 +26,7 @@ python run.py
 
 ### Test App
 
-1. Open Browser:  [http://localhost:5000](http://localhost:9000)
+1. Open Browser:  [http://localhost:5000](http://localhost:5000)
 
 ## Credits:
 
