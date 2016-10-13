@@ -12,9 +12,12 @@ Sample Flask web App that uses API Service to predict IRIS Flower.
 ```
 cookiecutter https://github.com/sampathweb/cc-iris-flask-app
 
-cd <repo>  # cd iris-flask-app
+cd <repo>  # cd iris-app
 
 # Install Packages (Flask and other dependencies) - Steps not included
+
+# Build the model
+python build_model.py
 
 # Run the App
 python run.py
