@@ -12,7 +12,7 @@ _A logical, reasonably standardized, but flexible project structure for doing an
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/sampathweb/cc-iris-app
+    cookiecutter https://github.com/sampathweb/cc-iris-flask-app
 
 ### Cookiecutter Credits:
 ------
