@@ -42,7 +42,7 @@ def index():
 
         my_prediction = estimator.predict(flower_instance)
         # Return only the Predicted iris species
-        predicted_iris = target_names[my_prediction]
+        predicted_iris = target_names[int(my_prediction)]
 
     return render_template('index.html',
         form=form,
